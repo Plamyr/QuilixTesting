@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\DependencyInjection\\DependencyInjection.csproj",
+      "projectUniqueName": "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\DependencyInjection\\DependencyInjection.csproj",
       "projectName": "DependencyInjection",
-      "projectPath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\DependencyInjection\\DependencyInjection.csproj",
+      "projectPath": "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\DependencyInjection\\DependencyInjection.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\DependencyInjection\\obj\\",
+      "outputPath": "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\DependencyInjection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

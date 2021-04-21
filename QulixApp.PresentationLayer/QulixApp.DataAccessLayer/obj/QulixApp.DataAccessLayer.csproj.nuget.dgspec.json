@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\QulixApp.DataAccessLayer.csproj": {}
+    "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\QulixApp.DataAccessLayer.csproj": {}
   },
   "projects": {
-    "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\QulixApp.DataAccessLayer.csproj": {
+    "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\QulixApp.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\QulixApp.DataAccessLayer.csproj",
+        "projectUniqueName": "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\QulixApp.DataAccessLayer.csproj",
         "projectName": "QulixApp.DataAccessLayer",
-        "projectPath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\QulixApp.DataAccessLayer.csproj",
+        "projectPath": "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\QulixApp.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\obj\\",
+        "outputPath": "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

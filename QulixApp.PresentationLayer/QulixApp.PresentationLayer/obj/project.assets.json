@@ -792,11 +792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer.csproj",
+      "projectUniqueName": "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer.csproj",
       "projectName": "QulixApp.PresentationLayer",
-      "projectPath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer.csproj",
+      "projectPath": "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer\\obj\\",
+      "outputPath": "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -813,8 +813,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.BusinessLogicLayer\\QulixApp.BusinessLogicLayer.csproj": {
-              "projectPath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.BusinessLogicLayer\\QulixApp.BusinessLogicLayer.csproj"
+            "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.BusinessLogicLayer\\QulixApp.BusinessLogicLayer.csproj": {
+              "projectPath": "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.BusinessLogicLayer\\QulixApp.BusinessLogicLayer.csproj"
             }
           }
         }

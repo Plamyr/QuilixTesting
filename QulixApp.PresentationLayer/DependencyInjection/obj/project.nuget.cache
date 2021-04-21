@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+f1rQJQlPpLygINFNfIdwTIsfZRiLDVdp8gyj7y65BPv7RqGNY+9AjoC7QjXSmjZ/doRRRFsMaeLuBKnYuggIg==",
+  "dgSpecHash": "AGLk7ZktvMZ0iiPMkHwiiyOVkqlnZwrO+P1HVJ9MjWAMwBFZp5AcfQ8K2H8U75ZiY5kU0YW7L+w6nsO5SF8Avw==",
   "success": true,
-  "projectFilePath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\DependencyInjection\\DependencyInjection.csproj",
+  "projectFilePath": "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\DependencyInjection\\DependencyInjection.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

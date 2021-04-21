@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qy2FUnlOzwKPBW7zhFfX4GdmrZ/OtwmLbNaGh/S53PLlSdB8zS61zDcljUXwzRxEWTVUkyg9ml8QHmNPNoW9zA==",
+  "dgSpecHash": "adDmE54FlyYWwBfxCIwGxrSGXjxR7LUXDMT3iRQhGQT1D5YLjkaJ17+jQRPnzYBwwVRm6TbKZe9CvCZLJH/uig==",
   "success": true,
-  "projectFilePath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer.csproj",
+  "projectFilePath": "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

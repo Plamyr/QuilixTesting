@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7WIGTrM+Kbr/cyxTZOjnafunslx+n8nz0/95FGf3kDGN+wckrWz81eJmQW4mqABBg516bxXxq1Ui0Peev4wysg==",
+  "dgSpecHash": "S+ZXhx9GrdDb2ZR2HXIH1t3sr4u7Cn/NfeitiAj5W1e8unlHLuOZ50LYIHBmv+G2kU96ZSscq1Tk3T42wIdziQ==",
   "success": true,
-  "projectFilePath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.BusinessLogicLayer\\QulixApp.BusinessLogicLayer.csproj",
+  "projectFilePath": "E:\\QuilixTesting\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.BusinessLogicLayer\\QulixApp.BusinessLogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -1,0 +1,12 @@
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.BusinessLogicLayer\bin\Debug\netcoreapp3.1\QulixApp.BusinessLogicLayer.deps.json
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.BusinessLogicLayer\bin\Debug\netcoreapp3.1\QulixApp.BusinessLogicLayer.dll
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.BusinessLogicLayer\bin\Debug\netcoreapp3.1\QulixApp.BusinessLogicLayer.pdb
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.BusinessLogicLayer\bin\Debug\netcoreapp3.1\QulixApp.DataAccessLayer.dll
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.BusinessLogicLayer\bin\Debug\netcoreapp3.1\QulixApp.DataAccessLayer.pdb
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.BusinessLogicLayer\obj\Debug\netcoreapp3.1\QulixApp.BusinessLogicLayer.csprojAssemblyReference.cache
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.BusinessLogicLayer\obj\Debug\netcoreapp3.1\QulixApp.BusinessLogicLayer.AssemblyInfoInputs.cache
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.BusinessLogicLayer\obj\Debug\netcoreapp3.1\QulixApp.BusinessLogicLayer.AssemblyInfo.cs
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.BusinessLogicLayer\obj\Debug\netcoreapp3.1\QulixApp.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.BusinessLogicLayer\obj\Debug\netcoreapp3.1\QulixApp.BusinessLogicLayer.csproj.CopyComplete
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.BusinessLogicLayer\obj\Debug\netcoreapp3.1\QulixApp.BusinessLogicLayer.dll
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.BusinessLogicLayer\obj\Debug\netcoreapp3.1\QulixApp.BusinessLogicLayer.pdb

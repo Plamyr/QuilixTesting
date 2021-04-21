@@ -1,0 +1,191 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer.csproj": {}
+  },
+  "projects": {
+    "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.BusinessLogicLayer\\QulixApp.BusinessLogicLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.BusinessLogicLayer\\QulixApp.BusinessLogicLayer.csproj",
+        "projectName": "QulixApp.BusinessLogicLayer",
+        "projectPath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.BusinessLogicLayer\\QulixApp.BusinessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.BusinessLogicLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\QulixApp.DataAccessLayer.csproj": {
+                "projectPath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\QulixApp.DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\QulixApp.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\QulixApp.DataAccessLayer.csproj",
+        "projectName": "QulixApp.DataAccessLayer",
+        "projectPath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\QulixApp.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer.csproj",
+        "projectName": "QulixApp.PresentationLayer",
+        "projectPath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.PresentationLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.BusinessLogicLayer\\QulixApp.BusinessLogicLayer.csproj": {
+                "projectPath": "E:\\QuilixTesting\\QulixApp.PresentationLayer\\QulixApp.BusinessLogicLayer\\QulixApp.BusinessLogicLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

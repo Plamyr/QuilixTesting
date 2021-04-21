@@ -1,0 +1,40 @@
+﻿@model List<CompanyViewModel>
+
+<head>
+    <meta charset="utf-8" />
+</head>
+<form method="post" action="">
+    <div>Фамилия</div>
+    <input name="LastName" type="text" />
+    <div>Имя</div>
+    <input name="FirstName" type="text" />
+    <div>Отчество</div>
+    <input name="Patronymic" type="text" />
+    <div>Должность</div>
+    <select name="Position">
+        <option value="developer">
+            Разработчк
+        </option>
+        <option value="business-analyst">
+            Бизнес-аналитик
+        </option>
+        <option value="tester">
+            тестировщик
+        </option>
+        <option value="manager">
+            менеджер
+        </option>
+    </select>
+    <div>Дата приема на работу( в формате YYYY-MM-DD)</div>
+    <input name="EmploymentDate" type="text" />
+    <div>Компания</div>
+    <select name="CompanyId">
+        @foreach (var item in Model)
+        {
+            <option value="@item.Id">@item.Name</option>
+        }
+    </select>
+    <input type="submit" value="отправить" />
+</form>
+
+<input type="button" value="ОТМЕНА" href="/Home/Employees" />

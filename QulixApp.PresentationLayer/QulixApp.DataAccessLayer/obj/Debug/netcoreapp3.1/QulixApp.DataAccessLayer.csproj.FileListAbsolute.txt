@@ -1,0 +1,9 @@
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.DataAccessLayer\bin\Debug\netcoreapp3.1\QulixApp.DataAccessLayer.deps.json
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.DataAccessLayer\bin\Debug\netcoreapp3.1\QulixApp.DataAccessLayer.dll
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.DataAccessLayer\bin\Debug\netcoreapp3.1\QulixApp.DataAccessLayer.pdb
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.DataAccessLayer\obj\Debug\netcoreapp3.1\QulixApp.DataAccessLayer.csprojAssemblyReference.cache
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.DataAccessLayer\obj\Debug\netcoreapp3.1\QulixApp.DataAccessLayer.AssemblyInfoInputs.cache
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.DataAccessLayer\obj\Debug\netcoreapp3.1\QulixApp.DataAccessLayer.AssemblyInfo.cs
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.DataAccessLayer\obj\Debug\netcoreapp3.1\QulixApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.DataAccessLayer\obj\Debug\netcoreapp3.1\QulixApp.DataAccessLayer.dll
+E:\QuilixTesting\QulixApp.PresentationLayer\QulixApp.DataAccessLayer\obj\Debug\netcoreapp3.1\QulixApp.DataAccessLayer.pdb
